@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Local tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Heavy / regenerable photo intermediates (keep source.jpg)
+data/photo/processed.png
+data/photo/*.tmp.*
+
+# Duplicate drops at repo root
+IMG_*.jpg
+IMG_*.png
+IMG_*.jpeg

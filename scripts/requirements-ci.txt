@@ -1,0 +1,4 @@
+# Lightweight deps for CI heatmap updates (no rembg / opencv / pillow).
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+PyYAML>=6.0.1

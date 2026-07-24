@@ -1,0 +1,81 @@
+# Profile configuration for the terminal README art pipeline.
+# Edit this file — generators read it instead of hard-coding personal data.
+
+github_username: vedjr02
+
+identity:
+  display_name: Vedant Ambre
+  role: Business Analytics graduate · data-driven apps
+  location: Ireland / India
+  education: Bachelors in IT · Masters in Business Analytics (Maynooth University)
+  website: https://vedantambre.vercel.app
+  email: ambreved3@gmail.com
+  linkedin: https://linkedin.com/in/vedantambre
+  prompt: "vedant@github:~$"
+
+info_card:
+  languages:
+    - TypeScript
+    - JavaScript
+    - Swift
+    - Python
+  tech_stack:
+    - Swift/SwiftUI
+    - FastAPI
+    - Node.js
+    - React
+    - Vite
+    - Tailwind
+    - Supabase
+    - Pandas/NumPy
+  interests:
+    - Habit tracking
+    - Data visualization
+    - Photography / cinematography
+    - Hiking
+    - Gaming
+  current_focus: Dynamic pricing / energy tariff visualization · mobile habit tools
+  fun_facts:
+    - Based between Ireland & India
+    - Builds transit/energy integrations
+    - Valorant + game servers
+
+theme:
+  name: classic-green
+  background: "#0d1117"
+  foreground: "#33ff66"
+  dim: "#1a3d24"
+  muted: "#6e7681"
+  accent: "#3fb950"
+  window_title: "vedjr02 — zsh"
+
+layout:
+  ascii_columns: 60
+  frame_window: true
+  side_by_side: true
+
+animation:
+  ascii_duration_s: 2.5
+  ascii_cursor: true
+  heatmap_duration_s: 3.0
+  play_once: true
+
+heatmap:
+  weeks: 52
+  stats:
+    - total
+    - current_streak
+    - longest_streak
+    - best_day
+
+paths:
+  photo_source: data/photo/source.jpg
+  photo_processed: data/photo/processed.png
+  ascii_svg: assets/avi-ascii.svg
+  info_card_svg: assets/info-card.svg
+  heatmap_svg: assets/contrib-heatmap.svg
+  contributions_json: data/contributions.json
+
+automation:
+  cron: "0 6 * * *"  # 06:00 UTC daily
+  update_heatmap_only: true
