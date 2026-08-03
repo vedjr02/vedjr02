@@ -11,7 +11,7 @@
   <text x="401.5" y="18.0" text-anchor="middle"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#3fb950">vedjr02 — zsh</text>
 
-  <text x="18.00" y="60.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#33ff66" opacity="0">Total: 2,843   Current streak: 7   Longest streak: 7   Best day: 262 on 2026-07-26<animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.2s" fill="freeze"/></text>
+  <text x="18.00" y="60.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#33ff66" opacity="0">Total: 2,861   Current streak: 8   Longest streak: 8   Best day: 262 on 2026-07-26<animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.2s" fill="freeze"/></text>
   <text x="46.00" y="80.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6e7681">Aug</text>
   <text x="116.00" y="80.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6e7681">Sep</text>
   <text x="172.00" y="80.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6e7681">Oct</text>
@@ -392,7 +392,8 @@
   <rect x="760.00" y="142.00" width="11.0" height="11.0" rx="2" ry="2" fill="#1a3d24" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>1 contribution on 2026-07-30</title><animate attributeName="opacity" from="0" to="1" begin="2.845s" dur="0.12s" fill="freeze"/></rect>
   <rect x="760.00" y="156.00" width="11.0" height="11.0" rx="2" ry="2" fill="#1a3d24" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>23 contributions on 2026-07-31</title><animate attributeName="opacity" from="0" to="1" begin="2.897s" dur="0.12s" fill="freeze"/></rect>
   <rect x="760.00" y="170.00" width="11.0" height="11.0" rx="2" ry="2" fill="#1a3d24" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>5 contributions on 2026-08-01</title><animate attributeName="opacity" from="0" to="1" begin="2.948s" dur="0.12s" fill="freeze"/></rect>
-  <rect x="774.00" y="86.00" width="11.0" height="11.0" rx="2" ry="2" fill="#0d1117" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>0 contributions on 2026-08-02</title><animate attributeName="opacity" from="0" to="1" begin="2.690s" dur="0.12s" fill="freeze"/></rect>
+  <rect x="774.00" y="86.00" width="11.0" height="11.0" rx="2" ry="2" fill="#1a3d24" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>18 contributions on 2026-08-02</title><animate attributeName="opacity" from="0" to="1" begin="2.690s" dur="0.12s" fill="freeze"/></rect>
+  <rect x="774.00" y="100.00" width="11.0" height="11.0" rx="2" ry="2" fill="#0d1117" stroke="#1a3d24" stroke-width="0.5" opacity="0"><title>0 contributions on 2026-08-03</title><animate attributeName="opacity" from="0" to="1" begin="2.741s" dur="0.12s" fill="freeze"/></rect>
   <text x="18.00" y="197.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6e7681">Less</text>
   <rect x="54.00" y="188.00" width="11.0" height="11.0" rx="2" ry="2" fill="#0d1117" stroke="#1a3d24" stroke-width="0.5"/>
   <rect x="68.00" y="188.00" width="11.0" height="11.0" rx="2" ry="2" fill="#1a3d24" stroke="#1a3d24" stroke-width="0.5"/>
@@ -400,5 +401,5 @@
   <rect x="96.00" y="188.00" width="11.0" height="11.0" rx="2" ry="2" fill="#3fb950" stroke="#1a3d24" stroke-width="0.5"/>
   <rect x="110.00" y="188.00" width="11.0" height="11.0" rx="2" ry="2" fill="#33ff66" stroke="#1a3d24" stroke-width="0.5"/>
   <text x="124.00" y="197.00" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6e7681">More</text>
-  <text x="785.00" y="197.00" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#3fb950">2025-08-03 → 2026-08-02</text>
+  <text x="785.00" y="197.00" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#3fb950">2025-08-03 → 2026-08-03</text>
 </svg>
