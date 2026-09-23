@@ -23,7 +23,7 @@ from common import load_config, resolve_path, setup_logging, write_text
 
 log = setup_logging()
 
-USER_AGENT = "vedjr02-profile-art/1.0 (+https://github.com/vedjr02/vedjr02)"
+USER_AGENT = "vedjrr-profile-art/1.0 (+https://github.com/vedjrr/vedjrr)"
 COUNT_RE = re.compile(r"^([\d,]+)\s+contributions?\b", re.IGNORECASE)
 
 

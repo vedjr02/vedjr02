@@ -26,7 +26,7 @@
 <p align="center">
   <img
     src="./assets/contrib-heatmap.svg"
-    alt="Animated GitHub contribution heatmap for vedjr02"
+    alt="Animated GitHub contribution heatmap for vedjrr"
     width="900"
   />
 </p>

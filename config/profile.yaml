@@ -1,7 +1,7 @@
 # Profile configuration for the terminal README art pipeline.
 # Edit this file — generators read it instead of hard-coding personal data.
 
-github_username: vedjr02
+github_username: vedjrr
 
 identity:
   display_name: Vedant Ambre
@@ -47,7 +47,7 @@ theme:
   dim: "#1a3d24"
   muted: "#6e7681"
   accent: "#3fb950"
-  window_title: "vedjr02 — zsh"
+  window_title: "vedjrr — zsh"
 
 layout:
   ascii_columns: 60
